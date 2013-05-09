@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Afoge.exe" version="1.0.0.1" publicKeyToken="44bc52abeefa1611" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Gamextazy.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Afoge" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Afoge.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Afoge.exe" size="49152">
+      <assemblyIdentity name="Afoge" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dFUgLPN9LpNp9KkytuFqko1sgEU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.dll" size="9728">
+      <assemblyIdentity name="AForge" version="2.0.0.0" publicKeyToken="C1DB6FF4EAA06AEB" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>eJjDB61ncU65e0zsSrSJefCfZIw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Imaging.dll" size="97792">
+      <assemblyIdentity name="AForge.Imaging" version="2.0.0.0" publicKeyToken="BA8DDEA9676CA48B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>UZUrGHawuniV/xSEd5EQfsW6MS4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.dll" size="13312">
+      <assemblyIdentity name="AForge.Video" version="2.0.0.0" publicKeyToken="CBFB6E07D173C401" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Or8fzdfxDvOzbPiElcX44tMJ+0Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AForge.Video.DirectShow.dll" size="27136">
+      <assemblyIdentity name="AForge.Video.DirectShow" version="2.0.0.0" publicKeyToken="61EA4348D43881B7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>byiKu22P9HYvnF+MhIqgTbEZf3Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Gamextazy.ico" size="29070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Wsg7AgQNYc0+vwQlyZP/LT+dBHE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PerfCenterCpl.ico" size="116288">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LtBsnkmbKoDWFqamHW2SY4Gdjhc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GAMCHANMAXROBO\Gamchantoi" issuerKeyHash="4117c42ac7d80c9748450f66fbe1aff3cd8b9122" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DDxUj4yvZo+D7XX9kxxYrws0QtM=</DigestValue></Reference></SignedInfo><SignatureValue>jM804i8WKrHuO4o9YLxEnmtkhxH2ytUdTgOS+viDaxeUSrj+4lgPRUnz9zb8/WsdkKFrWVTLREmJcdQInxNLGMvWmAI2446K4YfKW69u4hakbYY63tXKtOaEcwyLspKC4IncW/+Pp9/j6/6mnj0S6UdIrefO6vlVVudl36jcwMA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v3QZETzYropKN482qDoQ2GvhJk5TulcCMxVnIxkRKXYc/RkepNuGOa6iIsvSquvZ1ASS9eIzhupc2d2NIuGBpOyuOljyVnJZFTwWUgbTVpinaxHkZVK2akusCQB+9fG3U5TE3Ydr5rZoWothsWLiDy5vRMi9kyYUbHzxLouUl7U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d342340baf581c93fd75ed838f66af8c8f543c0c" Description="" Url=""><as:assemblyIdentity name="Afoge.exe" version="1.0.0.1" publicKeyToken="44bc52abeefa1611" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GAMCHANMAXROBO\Gamchantoi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wakRrIL2gtzmQBzm8jrJM/KmYTU=</DigestValue></Reference></SignedInfo><SignatureValue>lIi6O3+fIoN3dvU/f5ROYTNsOagqizprVxYFd3rz7yN0LOhplEcCfsB3bjmcF76tamUQT6eAwRVYEUxE/r1dd4XEEyT38BzcsSnT2gFdEcLI8au9wbAWvZLC6GEI9Zz2xh9irXKKZ1dYnw1XcVMW/8xAiTsGtg2CWNQD109vFoU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v3QZETzYropKN482qDoQ2GvhJk5TulcCMxVnIxkRKXYc/RkepNuGOa6iIsvSquvZ1ASS9eIzhupc2d2NIuGBpOyuOljyVnJZFTwWUgbTVpinaxHkZVK2akusCQB+9fG3U5TE3Ydr5rZoWothsWLiDy5vRMi9kyYUbHzxLouUl7U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQGCvF6cFHv6JPpl0wVqmJJjANBgkqhkiG9w0BAQUFADA9MTswOQYDVQQDHjIARwBBAE0AQwBIAEEATgBNAEEAWABSAE8AQgBPAFwARwBhAG0AYwBoAGEAbgB0AG8AaTAeFw0xMjAzMTgxMjU3NDlaFw0xMzAzMTgxODU3NDlaMD0xOzA5BgNVBAMeMgBHAEEATQBDAEgAQQBOAE0AQQBYAFIATwBCAE8AXABHAGEAbQBjAGgAYQBuAHQAbwBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/dBkRPNiuiko3jzaoOhDYa+EmTlO6VwIzFWcjGREpdhz9GR6k24Y5rqIiy9Kq69nUBJL14jOG6lzZ3Y0i4YGk7K46WPJWclkVPBZSBtNWmKdrEeRlUrZqS6wJAH718bdTlMTdh2vmtmhai2GxYuIPLm9EyL2TJhRsfPEui5SXtQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBALR0gCl3YgYgRLMtP5kDV0/mcT8JGupk0uzUIPLLhiNBU6It571cjaLksaJdvwMQHVAbguA+85saEAMTClVMeZf+RQ27/4+fxhzH/Ok9Bz7cw5KQRaXtJr8fn59o8JoyrEIdBgWGFBqpClneB5AjUlzSSYVuz5jLIQ2x4Vl5yi9p</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

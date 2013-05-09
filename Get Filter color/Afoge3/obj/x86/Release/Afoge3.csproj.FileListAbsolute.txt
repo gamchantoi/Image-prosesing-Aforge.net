@@ -1,0 +1,19 @@
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Release\Afoge3.csprojResolveAssemblyReference.cache
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Release\Afoge3.Form1.resources
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Release\Afoge3.Properties.Resources.resources
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Release\Afoge3.csproj.GenerateResource.Cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\AForge.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\AForge.Imaging.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\AForge.Video.DirectShow.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\AForge.Video.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\Afoge.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\Afoge.exe.manifest
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Release\Afoge.application
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge3.csprojResolveAssemblyReference.cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge3.Form1.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge3.Properties.Resources.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge3.csproj.GenerateResource.Cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge.exe.manifest
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge.application
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Release\Afoge.pdb

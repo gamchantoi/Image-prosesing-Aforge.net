@@ -1,0 +1,32 @@
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\bin\Debug\Afoge3.exe
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\bin\Debug\Afoge3.pdb
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.csprojResolveAssemblyReference.cache
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.Form1.resources
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.Properties.Resources.resources
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.csproj.GenerateResource.Cache
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.exe
+C:\Users\Gamchantoi\AppData\Local\Temporary Projects\Afoge3\obj\x86\Debug\Afoge3.pdb
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\Afoge3.exe
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\Afoge3.pdb
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\AForge.dll
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\AForge.Imaging.dll
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\AForge.Video.DirectShow.dll
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\bin\Debug\AForge.Video.dll
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.csprojResolveAssemblyReference.cache
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.Form1.resources
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.Properties.Resources.resources
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.csproj.GenerateResource.Cache
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.exe
+g:\users\gamchantoi\documents\visual studio 2010\Projects\Afoge3\Afoge3\obj\x86\Debug\Afoge3.pdb
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.pdb
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.csprojResolveAssemblyReference.cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.Form1.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.Properties.Resources.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\obj\x86\Debug\Afoge3.csproj.GenerateResource.Cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\Afoge3.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\Afoge3.pdb
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\AForge.Video.DirectShow.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\AForge.Video.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\AForge.dll
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\Projects\IMAGE PROCESING AFORGE\Afoge3\Afoge3\bin\Debug\AForge.Imaging.dll
